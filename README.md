@@ -1,2 +1,2 @@
 # MY_PlayGround
- confilct2 hi !
+confilict resolved
